@@ -30,7 +30,6 @@
 
 <br />
 <p align = "center">
-  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=31reutaimeofchscqq6dypesnxpe&count=1" alt = "Seif Sallam Spotify" width = 400 /> 
 
 </p>
 <h2 align="center">Contact Information</h2>

@@ -4,7 +4,10 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - I am Omar Moheyeldin
-<!-- - I am enthusiastic about Game Development and Game Engine Architecture. -->
+- I am enthusiastic about:
+* Embedded Systems
+* Full Stack Development
+* Mobile App Development
 <!-- - I worked for several semesters as a Teacher Assistant in The American University in Cairo (AUC) -->
 <!-- I am currently focusing on learning about different Graphics APIs such as OpenGL as well as learning to use Game Engines such as Unity3D and Unreal Engine.-->
 
